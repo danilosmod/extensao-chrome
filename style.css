@@ -1,0 +1,29 @@
+.escolha{
+    width: 350px;
+    color: #71AB92;
+    border: 0,5px;
+    border-color: rgb(160, 202, 106);
+    font-size: 14px;
+    float:left;
+   
+}
+
+.diversos{
+    background-color:rgb(156, 221, 159);
+    color: white;
+    font-size: 14px;
+    text-decoration: underline;
+    border-bottom: 1px solid white;
+}
+
+.particulares{
+    background-color:rgb(109, 153, 111);
+    color: white;
+    font-size: 14px;
+}
+
+.pdf{
+    background-color:rgb(65, 90, 67);
+    color: white;
+    font-size: 14px;
+}

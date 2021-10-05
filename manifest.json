@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Cancelamento DEP",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": ["http://diario.casacivil.mg.gov.br/newsys/src/interno/index.php/publicacoes/AlteraStatus/*","http://diario.casacivil.mg.gov.br/newsys/src/interno/index.php/pedidos/cancelar/*"],
+            "css": ["style.css"],
+            "js": ["content.js"]
+        }
+    ]
+
+}
